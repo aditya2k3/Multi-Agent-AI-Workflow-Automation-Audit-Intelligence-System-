@@ -1,0 +1,2 @@
+total_transactions,transaction_anomalies,total_invoices,invoice_anomalies,avg_transaction_amount,avg_invoice_amount
+1000,174,500,75,4540.92312,6686.123419999999

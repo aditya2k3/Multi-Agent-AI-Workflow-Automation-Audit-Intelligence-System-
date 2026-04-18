@@ -414,10 +414,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Project Maintainer**: [Your Name]
-- **Email**: your.email@example.com
-- **LinkedIn**: [linkedin.com/in/yourprofile]
-- **GitHub**: [github.com/yourusername]
+- **Project Maintainer**: Aditya Gupta
+- **Email**: aditya2k3@gmail.com
+- **LinkedIn**: www.linkedin.com/in/aditya-gupta-25a169254
+- **GitHub**: https://github.com/aditya2k3
+
 
 ---
 
